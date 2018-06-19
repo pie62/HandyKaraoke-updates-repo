@@ -12,7 +12,7 @@
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://your_domain/your_path/setup.exe"
                        sparkle:dsaSignature="MEQCICh10SofkNHa5iJgVWDi2O8RBYyN+nxkFEL7u/tBuWboAiB6VOV/WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw=="
-                       sparkle:version="1.5.5880"
+                       sparkle:version="2.0.1"
                        length="0"
                        type="application/octet-stream" />
         </item>
