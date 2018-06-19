@@ -4,6 +4,7 @@
         <title>Handy Karaoke Appcast</title>
         <description>Most recent updates to Handy Karaoke</description>
         <language>en</language>
+        <!--  
         <item>
             <title>Version 2.0.1</title>
             <sparkle:releaseNotesLink>
@@ -16,5 +17,6 @@
                        length="0"
                        type="application/octet-stream" />
         </item>
+        -->
     </channel>
 </rss>
