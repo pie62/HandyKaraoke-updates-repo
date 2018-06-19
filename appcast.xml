@@ -5,9 +5,9 @@
         <description>Most recent updates to Handy Karaoke</description>
         <language>en</language>
         <item>
-            <title>Version 2.5.5880</title>
+            <title>Version 2.0.0</title>
             <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
+                https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://your_domain/your_path/setup.exe"
