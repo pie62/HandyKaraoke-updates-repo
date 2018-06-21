@@ -4,19 +4,17 @@
         <title>Handy Karaoke Appcast</title>
         <description>Most recent updates to Handy Karaoke</description>
         <language>en</language>
-        <!--  
         <item>
-            <title>Version 2.0.1</title>
+            <title>Version 2.2.0</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup.exe"
-                       sparkle:dsaSignature="MEQCIGbqEsdc4LliQsW6ROAqRDZUgdS90zETbqNn+dOI41/GAiAPG6HVDrxd9OzV9WkY+WmFmXrZIvW+3yFlyIxTkIoEJg=="
-                       sparkle:version="2.0.1"
+                       sparkle:dsaSignature="MEYCIQDilhQf7tRlzt5JWzVfRTtftxS/J7AHQvzs4vPkocqlKQIhAOUBxE+oNOVkKiTmS3EjxoT4TDafO4RIsBQeMR43QNXy"
+                       sparkle:version="2.2.0"
                        length="0"
                        type="application/octet-stream" />
         </item>
-        -->
     </channel>
 </rss>
