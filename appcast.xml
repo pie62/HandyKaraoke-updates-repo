@@ -4,25 +4,20 @@
         <title>Handy Karaoke Appcast</title>
         <description>Most recent updates to Handy Karaoke</description>
         <language>en</language>
-        <item sparkle:os="windows-x86">
+        <item>
             <title>Version 2.2.0</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
-            <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup.exe"
+            <enclosure sparkle:os="windows-x86" 
+            		   url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup.exe"
                        sparkle:dsaSignature="MEYCIQDilhQf7tRlzt5JWzVfRTtftxS/J7AHQvzs4vPkocqlKQIhAOUBxE+oNOVkKiTmS3EjxoT4TDafO4RIsBQeMR43QNXy"
                        sparkle:version="2.2.0"
                        length="0"
                        type="application/octet-stream" />
-        </item>
-        <item sparkle:os="windows-x64">
-            <title>Version 2.2.0</title>
-            <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
-            <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup64.exe"
+            <enclosure sparkle:os="windows-x64" 
+            		   url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup64.exe"
                        sparkle:dsaSignature="MEYCIQCzZmVlQLNKcQ+U1H3I9p3Fc8UIyh4ltMcWu11sFRmL4gIhAI81U3R8UCIhZQ+MygwWfhJhSIs/AERXxjSrOS1bjqAx"
                        sparkle:version="2.2.0"
                        length="0"
