@@ -30,7 +30,7 @@
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup64.exe"
                        sparkle:dsaSignature="MEYCIQCzZmVlQLNKcQ+U1H3I9p3Fc8UIyh4ltMcWu11sFRmL4gIhAI81U3R8UCIhZQ+MygwWfhJhSIs/AERXxjSrOS1bjqAx"
-                       sparkle:version="2.2.0"
+                       sparkle:version="2.3.0"
                        length="0"
                        type="application/octet-stream" />
         </item>
