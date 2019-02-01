@@ -6,10 +6,12 @@
         <language>en</language>
  
         <item>
-            <title>Version 2.2.0 </title>
+            <title>Version 2.2.0 (2 bugs fixed; 4 new features)</title>
+            <!--  
             <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes.html
+                https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes-test.html
             </sparkle:releaseNotesLink>
+            -->
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup64.exe"
                        sparkle:dsaSignature="MEYCIQCzZmVlQLNKcQ+U1H3I9p3Fc8UIyh4ltMcWu11sFRmL4gIhAI81U3R8UCIhZQ+MygwWfhJhSIs/AERXxjSrOS1bjqAx"
