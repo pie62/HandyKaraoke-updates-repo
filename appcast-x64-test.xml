@@ -12,6 +12,15 @@
                 https://raw.githubusercontent.com/pie62/HandyKaraoke-updates-repo/master/release_notes-test.html
             </sparkle:releaseNotesLink>
             -->
+            <description><![CDATA[
+				<h2>bugs fixed</h2>
+				<ul>
+					<li>แก้ไข้เปิด eq แล้วเสียงแตก/กระตุก</li>
+					<li>แก้ไขไม่สามารถแยกอุปกรณ์เสียง/ลำโพง ได้</li>
+				</ul>
+
+			]]>
+    		</description>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
             <enclosure url="https://github.com/pie62/HandyKaraoke-updates-repo/raw/master/setup64.exe"
                        sparkle:dsaSignature="MEYCIQCzZmVlQLNKcQ+U1H3I9p3Fc8UIyh4ltMcWu11sFRmL4gIhAI81U3R8UCIhZQ+MygwWfhJhSIs/AERXxjSrOS1bjqAx"
