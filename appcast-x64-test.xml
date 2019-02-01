@@ -13,12 +13,18 @@
             </sparkle:releaseNotesLink>
             -->
             <description><![CDATA[
-				<h2>bugs fixed</h2>
+				<h5>bugs fixed</h5>
 				<ul>
 					<li>แก้ไข้เปิด eq แล้วเสียงแตก/กระตุก</li>
 					<li>แก้ไขไม่สามารถแยกอุปกรณ์เสียง/ลำโพง ได้</li>
 				</ul>
-
+				<h5>new features</h5>
+				<ul>
+					<li>เพิ่มตัวเลือกแยกหน้าต่างจากหน้าต่างหลักสำหรับ Handy Synth Mixer</li>
+					<li>เพิ่มตัวเลือกหน้าต่างอยู่บนสุดตลอดเวลาสำหรับ Handy Synth Mixer</li>
+					<li>เพิ่มความสามารถ Synthesizer รับการเลือกและปรับ ซาวด์ฟ้อนพรีเซ็ต</li>
+					<li>เพิ่มความสามารถตัวเล่นเพลง รองรับการล็อคระดับเสียงของช่องสัญญาณ</li>
+				</ul>
 			]]>
     		</description>
             <pubDate>Fri, 06 Feb 2016 22:49:00 +0100</pubDate>
