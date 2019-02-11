@@ -4,6 +4,35 @@
         <title>Handy Karaoke Appcast</title>
         <description>Most recent updates to Handy Karaoke</description>
         <language>en</language>
+
+        <item>
+            <title>Version 2.3.0 (4 bugs fixed; 6 new features)</title>
+            <description><![CDATA[
+              <h5>bugs fixed</h5>
+              <ul>
+                <li>แก้ไขความกว้าง (Bandwidth) ของ EQ 15 band</li>
+                <li>แก้ไข Chorus และ Reverb</li>
+                <li>แก้ไข VST และ VSTi ไม่จำค่าบางอย่าง (chunk data)</li>
+                <li>แก้ไข Midi Synthesizer เลือกซาวด์ฟ้อนไม่ถูกต้องเมื่อลบหรือเปลี่ยนลำดับซาวด์ฟ้อน</li>
+              </ul>
+              <h5>new features</h5>
+              <ul>
+                <li>ย้ายการตั้งค่า Master effect (EQ, Chorus, Reverb) ไปไว้ในส่วนของ Synth Mixer</li>
+                <li>เปลี่ยน Chorus และ Reverb ใหม่</li>
+                <li>เพิ่มความสามารถโปรแกรมรองรับภาษาอังกฤษ (English language is supported)</li>
+                <li>เพิ่มความสามารถโปรแกรมรองรับไฟล์ .kar (.kar or .mid)</li>
+                <li>เพิ่มความสามารถลบเพลงที่กำลังค้นหา (Ctrl + Delete)</li>
+                <li>เพิ่มความสามารถ Handy Synth Mixer บันทึกค่าอัตโนมัติทุกๆ 10 นาที</li>
+              </ul>
+            ]]>
+            </description>
+            <pubDate>11/02/2019 09:00</pubDate>
+            <enclosure url="https://github.com/pie62/HandyKaraoke/releases/download/2.3.0/HandyKaraoke-2.3.0-x86-setup.exe"
+                       sparkle:dsaSignature="MEQCIEMXZMvVDslzsiLavednhcez6krZPyLX2MrcYh6B+y36AiAZu5MN4s+S0a2bPYsKigImSucArzutRMTZpGSWC1EfJw=="
+                       sparkle:version="2.3.0"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
         
         <item>
             <title>Version 2.2.0 (2 bugs fixed; 4 new features)</title>
