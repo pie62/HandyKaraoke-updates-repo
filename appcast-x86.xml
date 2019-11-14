@@ -6,6 +6,30 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.4.0 (2 bugs fixed; 3 new features)</title>
+            <description><![CDATA[
+              <h5>bugs fixed</h5>
+              <ul>
+                <li>ปรับปรุงตัวเล่นเพลง MIDI (MIDI Sequencer)</li>
+                <li>แก้ปัญหาเล่นเพลงบางเพลงไม่ได้ (เช่น เพลงผัวทิ้ง - กล้วย คลองหอยโข่ง)</li>
+              </ul>
+              <h5>new features</h5>
+              <ul>
+                <li>เพิ่มความสามารถ กด * เพื่อ เปิด-ปิด เสียงร้อง</li>
+                <li>เปลี่ยนไปใช้ Qt 5.12.5 MSVC2017 (สำหรับ Windows)</li>
+                <li>เลิกรองรับ Windows XP</li>
+              </ul>
+            ]]>
+            </description>
+            <pubDate>15/11/2019 03:40</pubDate>
+            <enclosure url="https://github.com/pie62/HandyKaraoke/releases/download/2.4.0/HandyKaraoke-2.4.0-x86-setup.exe"
+                       sparkle:dsaSignature="MEUCIH8ElKTKfzIqYhXbsw7xbN/OvjTsCoyWa1cQQGMFZ85eAiEAjG4qqkFgSA6fNPk4KlBvqrxqczIY5vSYbn3zU0reYbk="
+                       sparkle:version="2.4.0"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 2.3.0 (4 bugs fixed; 6 new features)</title>
             <description><![CDATA[
               <h5>bugs fixed</h5>
