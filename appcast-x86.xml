@@ -6,6 +6,23 @@
         <language>en</language>
 
         <item>
+            <title>Version 2.4.1 (1 bugs fixed)</title>
+            <description><![CDATA[
+              <h5>bugs fixed</h5>
+              <ul>
+                <li>แก้ไข Midi Synthesizer ส่งค่า Midi Controller ไม่ถูกต้อง</li>
+              </ul>
+            ]]>
+            </description>
+            <pubDate>16/11/2019 20:25</pubDate>
+            <enclosure url="https://github.com/pie62/HandyKaraoke/releases/download/2.4.1/HandyKaraoke-2.4.1-x86-setup.exe"
+                       sparkle:dsaSignature="MEUCIBhKQjFtJeLSbuUkrNjVniWAK214+qMZ9Jnpk2uAAX+RAiEAqD0KgYfzriXphGucEUyzm1jvB3dDRtfm/puv65uv/Gw="
+                       sparkle:version="2.4.1"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 2.4.0 (2 bugs fixed; 3 new features)</title>
             <description><![CDATA[
               <h5>bugs fixed</h5>
